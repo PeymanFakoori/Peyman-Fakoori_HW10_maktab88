@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    height: 500px;
+    border: 1px solid black;
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.urlInput{
+    width: 450px;
+    margin: 30px;
+    text-align: center;
+}
+
+.submit-btn{
+    margin-left: 40px;
+    width: 80px;
+}
